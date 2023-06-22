@@ -1,6 +1,6 @@
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="[https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png](https://www.kcl.ac.uk/newimages/sspp/policy-institute/news/AdobeStock-207793837.x72204848.jpeg?w=782&h=440&crop=780,440,1,0&f=webp)" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
