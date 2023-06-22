@@ -9,26 +9,26 @@
 
 ## About me
 
-I'm Sagar Viradiya. A Google Developer Expert on Android. An Android Engineer at [DeliveryHero](https://www.deliveryhero.com/) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
-
+I'm a software engineer student and I'm in the field of cyber security and intelligence. You can follow my work here
 I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
 
 
 ## Things I am passionate about
 
-- Android :robot:
-- Open source :octocat:
+- Cyber Security
+- Pentester
+- Open source Intelligence 
 
-## Get in touch :coffee:
+## Get in touch 
 
-- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/viradiya_sagar).
-- Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@sagarviradiya).
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
-- And of course GitHub you're already on (Recursion).
+- My Linked Account => https://www.linkedin.com/in/h%C3%BCnkaracar/
+- TryHackme
+- HackTheBox
+- Vulnhub
 
 
 <!--
-**sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hunkaracr1/hunkaracar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
