@@ -1,6 +1,6 @@
 # Hey there :wave:
 
-<img src="[https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png](https://www.kcl.ac.uk/newimages/sspp/policy-institute/news/AdobeStock-207793837.x72204848.jpeg?w=782&h=440&crop=780,440,1,0&f=webp)" alt="Hello world">
+<img src="https://sites.breakingmedia.com/uploads/sites/3/2022/05/220524_cybersecurity_hacker_binary_GettyImages-1294491048-scaled-e1660595807911.jpg" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
