@@ -10,7 +10,6 @@
 ## About me
 
 I'm a software engineer student and I'm in the field of cyber security and intelligence. You can follow my work here
-I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
 
 
 ## Things I am passionate about
