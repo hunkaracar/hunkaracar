@@ -16,7 +16,8 @@ I'm a software engineer student and I'm in the field of cyber security and intel
 
 - Cyber Security
 - Pentester
-- Open source Intelligence 
+- Open source Intelligence
+- Cryptology
 
 ## Get in touch 
 
